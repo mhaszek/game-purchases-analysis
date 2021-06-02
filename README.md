@@ -101,3 +101,8 @@ To run the example locally run `main.ipynb` file in Jupyter Notebook.
 # Used Tools
  * Jupyter Notebook 
  * Pandas
+
+
+#
+
+#### Contact: mil.haszek@gmail.com
